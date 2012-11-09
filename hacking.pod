@@ -1,3 +1,9 @@
 =head1 CONTRIBUTING
 
-hackhackhack I<then> submit a patch
+=over
+
+=item hackhackhack I<then> submit a patch
+
+=item party!
+
+=back
