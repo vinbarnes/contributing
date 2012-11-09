@@ -1,0 +1,3 @@
+=head1 CONTRIBUTING
+
+hackhackhack I<then> submit a patch
